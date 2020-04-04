@@ -1,7 +1,7 @@
 # subd.py
 
 # Tutorial had subdomains text document just live in the same directory as script.
-# I chose to store it some where else, which meant pulling it in differently.
+# I chose to store it somewhere else, which meant pulling it in differently.
 # I decided to use pathlib and hard code the full path.
 
 import requests
